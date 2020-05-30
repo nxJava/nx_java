@@ -1,7 +1,7 @@
 # nx_java
 
 
-# 📚 Java 基础
+## 📚 Java 基础
 
 Java 数据类型和运算
 
@@ -27,7 +27,7 @@ Java 8 特性
 
 Java 容器
 
-# 📝Collection 和 Map
+## 📝Collection 和 Map
 Vector
 ArrayList
 LinkedList
@@ -36,14 +36,14 @@ HashMap
 LinkedHashMap
 ConcurrentHashMap
 
-# 🏆 Java 多线程
+## 🏆 Java 多线程
 
 Java 创建线程的方式
 Java 线程状态
 
 
 
-# 🥇 Java 虚拟机
+## 🥇 Java 虚拟机
 
 
 
