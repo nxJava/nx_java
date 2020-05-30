@@ -1,7 +1,7 @@
 # nx_java
 
 
-## 📚 Java 基础
+##  ☕ Java 基础
 
 Java 数据类型和运算
 
@@ -27,7 +27,7 @@ Java 8 特性
 
 Java 容器
 
-## 📝Collection 和 Map
+## 📚 Collection 和 Map
 Vector
 
 ArrayList
