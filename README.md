@@ -8,7 +8,7 @@ Java 关键字
 
 Java 封装、继承和多态
 
-String
+String、StringBuffer 和 StringBuilder
 
 Java反射
 
