@@ -204,7 +204,7 @@ this代表它所在函数所属对象的引用。简单说：哪个对象在调�
 public class Person{ 
 	String name; //定义成员变量name
 	private void SetName(String name) { //定义一个参数(局部变量)name
-	this.name=name; //将局部变量的值传递给成员变量
+		this.name=name; //将局部变量的值传递给成员变量
 	}
 }
 ```
@@ -215,7 +215,7 @@ public class Person{
 ```java
 public class Person { 
 	public Person(){ //无参构造器方法
-	this(“Hello!”);
+		this(“Hello!”);
 	}
 	public Person(String name){ //定义一个带形式参数的构造方法
 	}
