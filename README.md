@@ -57,7 +57,7 @@
 ## 🧶 Spring Boot
 
 * [0. 我们为什么要学习 Spring Boot？](https://github.com/nxJava/nx_java/blob/master/SpringBoot/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0SpringBoot.md)
-* [1. Spring Boot 开发环境搭建和项目启动](https://github.com/nxJava/nx_java/blob/master/SpringBoot/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0SpringBoot.md)
+* [1. Spring Boot 开发环境搭建和项目启动](https://github.com/nxJava/nx_java/blob/master/SpringBoot/Spring%20Boot%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%92%8C%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8.md)
 
 ## 👟 Spring Cloud
 
