@@ -10,7 +10,7 @@
 * [你真的了解Java String 吗？](https://github.com/nxJava/nx_java/blob/master/JavaBase/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%20Java%20%E4%B8%AD%E7%9A%84%20String%20%E5%90%97.md)
 * StringBuffer 和 StringBuilder
 * Java反射
-* Java 异常
+* [你对 Java 异常了解多少？](https://github.com/nxJava/nx_java/blob/master/JavaBase/%E4%BD%A0%E5%AF%B9%20Java%20%E5%BC%82%E5%B8%B8%E4%BA%86%E8%A7%A3%E5%A4%9A%E5%B0%91.md)
 * Java 注解
 * Java IO
 * Java 泛型
